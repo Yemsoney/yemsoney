@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on enhancing my full-stack development skills.
-- 🌱 I’m learning advanced React patterns and exploring TypeScript.
+- 🌱 I’m learning advanced React patterns and exploring laravel.
 - 💬 Ask me about web development, open-source contributions, and tech in general.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle) | [Email](yemsoney@gmail.com)
 - ⚡ Fun fact: I enjoy hiking and landscape photography.
