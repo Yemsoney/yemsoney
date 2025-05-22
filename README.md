@@ -40,6 +40,7 @@
 - [**project1**](https://github.com/Yemsoney/project1): A TypeScript-based application demonstrating XYZ functionality.
 - [**movie-front**](https://github.com/Yemsoney/movie-front): Frontend interface for a movie database application.
 - [**portfolio-backend**](https://github.com/Yemsoney/portfolio-backend): Backend services powering my personal portfolio.
+- [**portfolio--front**](https://github.com/Yemsoney/movie-front): Frontend interface portfolio.
 - [**resume**](https://github.com/Yemsoney/resume): My professional resume built with TypeScript.
 
 <!-- Connect with Me -->
